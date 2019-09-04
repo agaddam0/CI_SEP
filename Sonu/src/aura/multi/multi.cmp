@@ -1,0 +1,12 @@
+<aura:component >
+	
+    Name:<br/> <br/>
+    Phone:<br/> <br/>
+    City:<br/><br/>
+    <br/><br/><br/>
+    Product name:<br/><br/>
+    Product cost:<br/><br/>
+    Product price:<br/><br/>
+    Product quantity:<br/><br/>
+    
+</aura:component>
